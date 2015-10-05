@@ -12,6 +12,7 @@ namespace HelloCS2
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
         }
     }
 }
